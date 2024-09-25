@@ -4,3 +4,4 @@ line 3 from linux
 new line
 from feature-2
 new line added by f-2
+by feature-3
