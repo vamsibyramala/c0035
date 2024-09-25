@@ -2,3 +2,5 @@ this is my file
 this is line 2
 line 3 from linux
 new line
+from feature-2
+new line added by f-2
