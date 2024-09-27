@@ -2,3 +2,6 @@ this is my file
 this is line 2
 line 3 from linux
 my new line
+new line one
+new line two
+new line three
