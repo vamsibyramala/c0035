@@ -6,7 +6,3 @@ line five
 line six
 this is a new line
 line eight
-<<<<<<< HEAD
-line nine
-=======
->>>>>>> 2a0c277 (line 8)
